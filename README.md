@@ -22,4 +22,7 @@ This Streamlit app performs A/B testing on two different visualizations to deter
 - Gspread
 - OAuth2Client
 
+## Deployment Link:
+https://ab-testing-visualization.streamlit.app/
+
 
